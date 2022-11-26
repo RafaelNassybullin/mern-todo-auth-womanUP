@@ -1,15 +1,13 @@
-### mern-todo-auth-womanUP
+# mern-todo-auth-womanUP
 
-# cd server
-# npm i
-# npm run dev
+### cd server
+### npm i
+### npm run dev
 
-# cd ..
-# cd client
-# npm i
-# npm run start
-
-
+### cd ..
+### cd client
+### npm i
+### npm run start
 
 ## watch
 https://www.youtube.com/watch?v=WTjGoDo26wM
