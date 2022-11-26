@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-white bg-black relative;
+  }
+}
+
+@layer components {
+  .container {
+    @apply m-auto max-w-screen-sm w-full;
+  }
+  .input {
+    @apply text-white bg-stone-800 p-3 rounded-[7px] focus:outline-green-500;
+  }
+}
